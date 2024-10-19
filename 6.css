@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+div.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 450px;
+}
+div.left{
+    background-color: blue;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+div.right{
+    background-color: green;
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+img{
+    width: 90%;
+    height: 65%;
+    margin-left: 5%;
+    margin-top: 5%;
+    visibility: visible;
+    max-width: 450px;
+}
+button{
+    background-color: red;
+    width: 33.33%;
+    height: 40px;
+    border:2px solid black;
+    float: left;
+}
